@@ -1,2 +1,3 @@
 # ConfigFedora
-prueba para determinar conexion remota
+
+20 enero 2023
