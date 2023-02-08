@@ -9,8 +9,8 @@ Conocimientos Basicos necesarios para hacer la instalación.
 * Esquema de particiones del disco duro
 
   * Como saber si mi disco duro es MBR o GPT
-    * Windows 
-    * Linux 
+    * Windows
+    * Linux
 
   * Esquema MBR
   * Esquema GPT
